@@ -1679,7 +1679,7 @@ input::-moz-focus-inner {
   z-index: 501;
   display: inline-block;
   margin: 2px 0 0 0;
-  padding: 0;
+  padding: 10px;
   -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
   -webkit-transform: translate3d(0, -50%, 0);
@@ -1698,8 +1698,8 @@ input::-moz-focus-inner {
 }
 
 .header-logo img {
-  width: 140px;
-  height: 16px;
+  width: 100px;
+  height: 100px;
 }
 
 /* ------------------------------------------------------------------- 
